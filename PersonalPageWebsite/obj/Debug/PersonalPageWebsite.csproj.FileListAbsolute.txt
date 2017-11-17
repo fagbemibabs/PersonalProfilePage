@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\PersonalPageWebsite\PersonalPageWebsite\bin\PersonalPageWebsite.dll
+c:\users\user\documents\visual studio 2012\Projects\PersonalPageWebsite\PersonalPageWebsite\bin\PersonalPageWebsite.pdb
+c:\users\user\documents\visual studio 2012\Projects\PersonalPageWebsite\PersonalPageWebsite\obj\Debug\PersonalPageWebsite.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\PersonalPageWebsite\PersonalPageWebsite\obj\Debug\PersonalPageWebsite.dll
+c:\users\user\documents\visual studio 2012\Projects\PersonalPageWebsite\PersonalPageWebsite\obj\Debug\PersonalPageWebsite.pdb
